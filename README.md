@@ -15,3 +15,6 @@ some deployments rules to add in this section
 ## How to contribute
 
 contribution should be done following these steps ...
+
+## Copyright
+Copyright 2020 notice
