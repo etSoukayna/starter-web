@@ -19,3 +19,4 @@ contribution should be done following these steps ...
 ## Copyright
 Copyright 2020 notice
 some modifications after stashing the simple.html file this should be much higher priority
+some modif to test stashing untracked files and testing pop property
